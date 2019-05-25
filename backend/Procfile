@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT eatsmart_nigeria_3824.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'eatsmart_nigeria_3824'
+
+include ':app'
